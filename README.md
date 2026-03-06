@@ -1,4 +1,4 @@
-<img width="1122" height="205" alt="image" src="https://github.com/user-attachments/assets/3fc4ad65-5312-4f33-9bc8-fe4432a3e013" /><img width="334" height="205" alt="image" src="https://github.com/user-attachments/assets/4526ab94-789e-4e78-b2df-5a215247a82e" /># Лабораторная работа №1  
+# Лабораторная работа №1  
 ## Основы работы с SQL-запросами: выборка и модификация данных
 
 **СУБД:** PostgreSQL  
@@ -57,14 +57,16 @@ WHERE product_type = 'scooter';
 UPDATE scooters_update
 SET base_msrp = base_msrp - 50;
 ```
-blob:https://web.telegram.org/f5e61733-592e-41f8-ba07-5c8c9ce11370<img width="334" height="205" alt="image" src="https://github.com/user-attachments/assets/b37596e9-8da0-4928-87b9-7adeb3d1a1b3" />
+<img width="334" height="205" alt="image" src="https://github.com/user-attachments/assets/a67ca763-99fe-4542-838d-aad6a95c9936" />
+
 Удаление данных
 Удаляем модели 'Lemon'.
 ```sql
 DELETE FROM scooters_update
 WHERE model = 'Lemon';
 ```
-blob:https://web.telegram.org/09d3916b-d3c1-4c67-9365-6d7626587e23<img width="1122" height="205" alt="image" src="https://github.com/user-attachments/assets/e2e002c5-ecad-43b7-8c22-cef581e797c4" />
+<img width="1122" height="205" alt="image" src="https://github.com/user-attachments/assets/48c0cfce-e422-4b99-9549-7436d67fc65b" />
+
 
 ---
 
