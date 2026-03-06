@@ -1,4 +1,4 @@
-<img width="832" height="496" alt="image" src="https://github.com/user-attachments/assets/a25bb1f6-0c48-463a-a0cb-dec19f47f561" /># Лабораторная работа №1  
+# Лабораторная работа №1  
 ## Основы работы с SQL-запросами: выборка и модификация данных
 
 **СУБД:** PostgreSQL  
