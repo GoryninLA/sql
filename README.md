@@ -51,7 +51,6 @@ SELECT *
 FROM products
 WHERE product_type = 'scooter';
 ```
-Обновление данных
 Уменьшаем цену на $50.
 ```sql
 UPDATE scooters_update
@@ -59,7 +58,6 @@ SET base_msrp = base_msrp - 50;
 ```
 <img width="334" height="205" alt="image" src="https://github.com/user-attachments/assets/a67ca763-99fe-4542-838d-aad6a95c9936" />
 
-Удаление данных
 Удаляем модели 'Lemon'.
 ```sql
 DELETE FROM scooters_update
