@@ -2,3 +2,4 @@
 - [Лабораторная 1 отчет](https://github.com/GoryninLA/sql/blob/main/lab_01/lab_01.md)
 - [Лабораторная 2 отчет](https://github.com/GoryninLA/sql/blob/main/lab_02/lab_02.md)
 - [Лабораторная 3 отчет](https://github.com/GoryninLA/sql/blob/main/lab_03/lab_03.md)
+- [Лабораторная 4 отчет](https://github.com/GoryninLA/sql/blob/main/lab_04/lab_04.md)
